@@ -34,7 +34,7 @@ const Home: NextPage = () => {
 		
 			<h2 className="text-4xl font-bold mb-6 text-cyan-700">What to know before making an account</h2>
 
-			<p className="mb-6"><strong>1.</strong> Somewhat confusingly, the official website for Star Citizen is actually <a href="https://robertsspaceindustries.com/" target="_blank" rel="noreferrer">https://robertsspaceindustries.com/</a>. This is the full name of the real and fictional - it exists inside the game! - company, RSI. Make sure you use that official site whenever interacting with your account!</p>
+			<p className="mb-6"><strong>1.</strong> Somewhat confusingly, the official website for Star Citizen is actually <a href="https://robertsspaceindustries.com/?referral=STAR-Q2FZ-XVRQ" target="_blank" rel="noreferrer">https://robertsspaceindustries.com/</a>. This is the full name of the real and fictional - it exists inside the game! - company, RSI. Make sure you use that official site whenever interacting with your account!</p>
 
 			<p className="mb-6"><strong>2.</strong> Make sure you use a <strong>referral code</strong> when you first sign up. Doing so will give you a little extra starting cash in-game and may provide additional rewards if there are any special promotions going on. <em>For the July 2022 Free Fly event there&apos;s a special referral bonus: a hover bike with room for two called the Drake Dragonfly.</em></p>
 
