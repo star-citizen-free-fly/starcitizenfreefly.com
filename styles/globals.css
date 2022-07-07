@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'Maven Pro';
+	src: url('/MavenPro[wght].woff2') format('woff2-variations');
+	font-weight: 400 900;
+	font-stretch: 100%;
+	font-style: normal;
+}
+
+@layer base {
+	a {
+		@apply text-cyan-500 underline;
+	}
+	a:hover {
+		@apply text-cyan-400;
+	}
+}
