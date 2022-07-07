@@ -30,7 +30,7 @@ const Home: NextPage = () => {
 
 			<p className="mb-6">A Free Fly event is a limited time period where anyone can download and play Star Citizen as if they had purchased the game.</p>
 
-			<p className="mb-6">Your account will be give a loaner <Link href="/starter-ships"><a>starter ship</a></Link> for the duration of the Free Fly event, so you don&apos;t have to worry about buying one with real or in-game money. However, Free Fly events are usually accompanied by sales for starter game packages and other standalone ships, so if you&apos;re thinking of pulling the trigger on buying the game you might find a good deal during the event.</p>
+			<p className="mb-6">Your account will be given at least one loaner ship for the duration of the Free Fly event, so you don&apos;t have to worry about buying one with real or in-game money. However, Free Fly events are usually accompanied by sales for starter game packages and other standalone ships, so if you&apos;re thinking of pulling the trigger on buying the game you might find a good deal during the event.</p>
 		
 			<h2 className="text-4xl font-bold mb-6 text-cyan-700">What to know before making an account</h2>
 
